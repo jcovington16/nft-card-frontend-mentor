@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.main {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#15263F;
+    width: 350px;
+    height: 596px;
+    border: 1px solid black;
+    border-radius: 5%;
+    color: white;
+
+}
+
+.nft-image img {
+    display: flex;
+    width: 300px;
+    height: 302px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 15px;
+} 
+
+h3 {
+    font-family: 'Outfit';
+    font-style: normal;
+    padding-left: 25px;
+    margin-bottom: 16px;
+}
+
+h3:hover {
+    color: #00FFF8;
+    cursor: pointer;
+}
+
+.para p {
+    color: #8BACD9;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 300;
+    line-height: 26px;
+    height: 52px;
+    margin-bottom: 24px;
+
+}
+
+.eth {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.span1 img {
+    width: 11px;
+    height: 18px;
+    padding-right: 5px;
+    top: 1px;
+}
+
+.span1 {
+    color: hsl(178, 100%, 50%);
+}
+
+.span2 img {
+    width: 13.33px;
+    height: 13.33px;
+    padding-right:5px
+}
+
+.span2 {
+    color:#8BACD9;
+    margin-right: 5px;
+}
+
+.avatar {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.avatar img {
+    width: 33px;
+    height: 33px;
+    box-sizing: border-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-right: 16px;
+}
+
+.avatar p {
+    font-family: 'Outfit';
+    font-style: normal;
+}
+
+.avatar_span {
+    color: #8BACD9;
+}
+
+.hr {
+    width: 302px;
+    border: 1px solid #2E405A;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.attribution {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
